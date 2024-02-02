@@ -29,7 +29,7 @@ parsimonious==0.9.0
 protobuf==4.22.3
 pycares==4.3.0
 pycparser==2.21
-pycryptodome==3.17
+pycryptodome==3.19.1
 pyrsistent==0.19.3
 pyTelegramBotAPI==4.11.0
 pyuseragents==1.0.5
